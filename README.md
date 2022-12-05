@@ -3,3 +3,5 @@
 https://proxies.black
 
 https://thunderproxies.com
+
+https://proxies.fo/dashboard
